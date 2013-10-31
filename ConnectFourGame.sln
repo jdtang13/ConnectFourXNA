@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnectFourGame", "ConnectFourGame\ConnectFourGame\ConnectFourGame.csproj", "{FC917A91-5E76-47AB-9A6C-3A0C93705B77}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "ConnectFourGameContent", "ConnectFourGame\ConnectFourGameContent\ConnectFourGameContent.contentproj", "{F0B4D361-921E-497D-BD27-2EDAB88A195A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC917A91-5E76-47AB-9A6C-3A0C93705B77}.Debug|x86.ActiveCfg = Debug|x86
+		{FC917A91-5E76-47AB-9A6C-3A0C93705B77}.Debug|x86.Build.0 = Debug|x86
+		{FC917A91-5E76-47AB-9A6C-3A0C93705B77}.Release|x86.ActiveCfg = Release|x86
+		{FC917A91-5E76-47AB-9A6C-3A0C93705B77}.Release|x86.Build.0 = Release|x86
+		{F0B4D361-921E-497D-BD27-2EDAB88A195A}.Debug|x86.ActiveCfg = Debug|x86
+		{F0B4D361-921E-497D-BD27-2EDAB88A195A}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
